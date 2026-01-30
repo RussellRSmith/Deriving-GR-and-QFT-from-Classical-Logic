@@ -1,18 +1,17 @@
 # Deriving-GR-and-QFT-from-Classical-Logic
 According to [Wilce](https://plato.stanford.edu/archives/sum2024/entries/qt-quantlog/) and [Schurz](https://link.springer.com/article/10.1007/s11229-021-03367-2), there isn’t a single unifying logic from which the entirety of modern physics can be collectively understood. According to the definition of formal systems by Smullyan ("Theory of Formal Systems"), without a unifying logic there isn’t any way to form non-mathematical conclusions (e.g., ontology, explanations) within physics that give a coherent description of reality across all theories (space, time, and quantization are not treated uniformly across GR and QFT). It is therefore necessary to establish a single formal system from which physics can be axiomatically derived, as proposed by [David Hilbert](https://arxiv.org/abs/1803.03599) in his sixth problem. 
 
-Logic is how you make sense of observations, and mathematics is how you quantify them. Thus, it isn't that the universe is paradoxical, you are just using the wrong tool to understand it. How do we know this? We know this because we can use a formal system under classical reasoning to derive a universal model in which both quantum and relativistic phenomena share a common mechanism. This is unimaginable without deriving it axiomatically, so those that refuse to accept a logic-first approach to physics, or those that can't follow the rules of formal systems, I believe will never get an answer. This is unfortunate, because without a unifying logical framework for physics, you can prove anything, and when you can prove anything, the interpretations of physics (not the math) becomes meaningless.
+Logic is how you make sense of observations, and mathematics is how you quantify them. Thus, it isn't that the universe is paradoxical, we are just using the wrong tool to understand it. How do we know this? We know this because we can use a formal system under classical reasoning to derive a universal model in which both quantum and relativistic phenomena share a common mechanism. 
 
 ## Publication Status
-### Due to the rigorous nature of the article, any academic journal must be willing to either formally negate a claim within this research (I can always be wrong), or publish the article within a reasonable time frame.
 * Submitted to Foundations of Physics (journal) on 01/13/2026.
 * "Ready for Editorial Assignment" on 01/14/2026.
 ### Reasons for accepting or rejecting 
-* Currently too early to have any.
+* Too early to determine the editorial decision or outcome.
 
 ## History
 * This research combines ontology, physics, the mathematical theorems used in science, and aspects of philosophy into a single axiomatic system, and because of this, it was coined "The Framework of Everything" (FOE) by Dr. Steve Schortz. However, this title seems to have caused some issues, so I started using more descriptive ones (this is why the name has changed significantly over time).
-* I started putting this research together in 2023, and formalized it in 2024-2025. Due to the mathematics-first approach that physicists generally take, convincing them that every coherent field takes a logic-first approach has been an uphill battle (although mathematics is derived using logic, these approaches are not the same). For this reason I have had to spend significant time revising it to highlight various logical errors within the field.
+* I started putting this research together in 2023, and formalized it in 2024-2025. Due to the mathematics-first approach that physicists generally take, convincing them that every coherent field takes a logic-first approach has been an uphill battle (although mathematics is derived using logic, these approaches are not the same). For this reason I have had to spend significant time revising it in ways that "click" with a physacist.
 
 ## Correspondence
 * I am willing to document any errors on my part for the academic record, as well as give credit to those that find them.
