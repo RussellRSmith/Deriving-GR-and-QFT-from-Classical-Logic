@@ -1,22 +1,26 @@
-# Deriving-GR-and-QFT-from-Classical-Logic
-According to [Wilce](https://plato.stanford.edu/archives/sum2024/entries/qt-quantlog/) and [Schurz](https://link.springer.com/article/10.1007/s11229-021-03367-2), there isn’t a single unifying logic from which the entirety of modern physics can be collectively understood. According to the definition of formal systems by Smullyan ("Theory of Formal Systems"), without a unifying logic there isn’t any way to form non-mathematical conclusions (e.g., ontology, explanations) within physics that give a coherent description of reality across all theories (space, time, and quantization are not treated uniformly across GR and QFT). It is therefore necessary to establish a single formal system from which physics can be axiomatically derived, as proposed by [David Hilbert](https://arxiv.org/abs/1803.03599) in his sixth problem. 
+# Deriving the Ontological Foundation of Field Theories Using Classical Logic: Addressing Hilbert’s Sixth Problem
+While the foundations of general relativity (GR) and quantum field theory (QFT) are consistent, there are tensions within specific models. For example, standard QFTs are formulated on a fixed spacetime background, whereas GR treats spacetime geometry as dynamic. However, it is these specific models that have been numerically verified, so we want to be able to unite them on the same ontological structure without losing their numerical precision. Thus, rather than assuming the ontological meaning of variables, we logically derive them from a single axiomatic system (eq. 1), and this allows us to alter the ontological structure on which each theory depends until they are the same. The method is outlined as follows: 
+
+* Use P(Z) <-iff-> E(Z) (fully defined in section 2) to derive the meaning of Space and time using classical logic.
+* Derive field equations, that represent existence as a function of Space and time (ontology).
+* Construct a universal ontology, referred to as U, tied to these ontological field equations such that all known phenomena share a common mechanism (a single ontological field).
+* Tie the gravitational, scalar, fermion, and gauge fields to U while preserving numerical predictions.
+  
+The axiomatic system previously mentioned is developed by adding axioms to the framework of mathematics. These axioms of course do not interact with the mathematical framework, but it shows that the system uses the same rules of inference for all conclusions. When we apply this framework to the edge cases in physics like singularities, while the mathematical equations break down, the logic carries through telling us how to correct the mathematics to avoid paradoxes.
+
+This paper incorporates concepts in logic, philosophy (including ontology), mathematics, and physics, and because of this it has been difficult to find specialists to review it in its entirety. However, isn't it reasonable to say that logic (not just mathematics) is what ties different fields in academics together? If so, then these fields should be more cohesive than I am aware of them currently being. This framework therefore points us in what I believe to be the correct direction.
 
 ## arXiv Endorsement
 * Currently looking for an endorser.
 
-## Foundations of Physics - Publication Status
-* Submitted to Foundations of Physics (journal) on 01/13/2026.
-* "Ready for Editorial Assignment" on 01/14/2026.
-* "Rejected" on 2/11/2026 (Median until first decision is currently 19 days): I am more interested in truth than being correct. For this reason, I submitted my 12-page axiomatic derivation to Foundations of Physics on Jan 13, 2026, as this journal is highly respected. It sat as "ready for editorial assignment" until Feb 11 when it was rejected with an empty explanation section; no technical critique, no mention of an error in Eq. 72, just silence. This by no means implies that I am correct, but it makes the whole point of the journal rather meaningless (to me) if dedicated people can't get an answer (no, rejection without an answer is not an answer). Effectively you read until you find an error (if there is one) and you point to it. The only conclusion that I am personally able to make is that Foundations of Physics is where logic doesn't logic. If you are a reviewer or a reader and you can correct me on this then please do so. Anyone is welcome to point out an error in my work. 
-
 ## History
-* This research combines ontology, physics, the mathematical theorems used in science, and aspects of philosophy into a single axiomatic system, and because of this, it was coined "The Framework of Everything" (FOE) by Dr. Steve Schortz. However, this title seems to have caused some issues, so I started using more descriptive ones (this is why the name has changed significantly over time).
-* I started putting this research together in 2023, and formalized it in 2024-2025. Due to the mathematics-first approach that physicists generally take, convincing them that every coherent field takes a logic-first approach has been an uphill battle (although mathematics is derived using logic, these approaches are not the same). For this reason I have had to spend significant time revising it in ways that "click" with a physacist.
+* This research combines ontology, physics, the mathematical theorems used in science, and aspects of philosophy into a single axiomatic system, and because of this, it was coined "The Framework of Everything" (FOE) by Dr. Steve Schortz. However, this title seems to have caused some issues, so I started using more descriptive ones (this is partly why the name has changed significantly over time).
+* I started this research near the end of 2023, and formalized it in 2024-2025. 
 
 ## License
 © 2023-2026 Russell R. Smith. Licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0). 
 
 ## Documentation
-This research is permanently documented at Zenodo, and ResearchGate:
+This research is permanently documented at Zenodo:
 * [Deriving Quantum Field Theory and General Relativity from Classical Logic: Addressing Hilbert’s Sixth Problem](https://doi.org/10.5281/zenodo.17851348), and
 * [The Framework of Everything (FOE)](https://doi.org/10.5281/zenodo.14813498).
